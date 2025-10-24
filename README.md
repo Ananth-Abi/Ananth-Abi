@@ -38,8 +38,8 @@
 
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abinash-ananth-494756332)  
-[![Email](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiananth50@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-ananth-494756332/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiananth50@gmail.com)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TCk4cBadYP?theme=dark&font=Marcellus&ext=contest)
 
