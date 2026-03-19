@@ -9,8 +9,8 @@
   <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
   
   <ul>
-    <li>🎓 **Computer Science Undergraduate Student** (Completed 2nd Year, transitioning to 3rd Year).</li>
-    <li>💼 **Actively seeking a Software Engineering Internship** to apply my technical skills during my 3rd year.</li>
+    <li>🎓 Computer Science Undergraduate Student** (Completed 2nd Year, transitioning to 3rd Year).</li>
+    <li>💼 Actively seeking a Software Engineering Internship** to apply my technical skills during my 3rd year.</li>
     <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events.</li>
     <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures.</li>
     <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions.</li>
