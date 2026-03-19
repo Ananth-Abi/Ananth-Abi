@@ -19,7 +19,7 @@
 <br clear="right"/>
 
 ### ⚡ Fun Facts
-- 💻 **I absolutely love coding**—turning logic into functional, impactful software is my favorite part of being a developer.
+- 💻 **I absolutely love coding**—turning logic into functional software is my favorite part of being a developer.
 - 🚀 I'm a big fan of automation—if I have to do it twice, I'll try to script it!
 - ☕ Powered by curiosity, clean code, and occasionally some good coffee.
 
@@ -39,8 +39,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-ananth-494756332/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiananth50@gmail.com)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abiananth50)
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TCk4cBadYP?theme=dark&font=Marcellus&ext=contest)  
 [![Abinash's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ananth-Abi&bg_color=000000&color=ffffff&line=2f9844&point=ffffff&area=true&hide_border=true)](https://github.com/Ananth-Abi)
