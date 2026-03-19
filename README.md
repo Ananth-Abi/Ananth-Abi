@@ -4,47 +4,35 @@
 
 ### 🚀 About Me  
 
-<table border="0">
-  <tr>
-    <td valign="top" width="65%">
-      <ul>
-        <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events</li>
-        <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures</li>
-        <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions</li>
-        <li>💡 Gained hands-on experience through <b>individual projects</b>, focusing on solving real-world problems with clean, scalable code</li>
-        <li>💻 Proficient in <b>Python, Go, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b></li>
-      </ul>
-    </td>
-    <td valign="top" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+  
+  <ul>
+    <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events</li>
+    <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures</li>
+    <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions</li>
+    <li>💡 Gained hands-on experience through <b>individual projects</b>, focusing on solving real-world problems with clean, scalable code</li>
+    <li>💻 Proficient in <b>Python, Go, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b></li>
+  </ul>
+</div>
+
+<br clear="right"/>
+
+### ⚡ Fun Facts
+- 💻 **I absolutely love coding**—turning logic into functional, impactful software is my favorite part of being a developer.
+- 🚀 I'm a big fan of automation—if I have to do it twice, I'll try to script it!
+- ☕ Powered by curiosity, clean code, and occasionally some good coffee.
 
 ### 🧰 Tech Stack  
 
 <p align="left">
-  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/golang.png" alt="go"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="html5"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,html,css" />
 </p>
 
 ### 🛠 Tools & Technologies  
 
 <p align="left">
-  <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" alt="postman"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,idea,figma,git,docker,postman" />
 </p>
 
 ### 🌐 Connect with Me  
