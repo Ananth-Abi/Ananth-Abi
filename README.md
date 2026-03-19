@@ -4,14 +4,15 @@
 
 ### 🚀 About Me  
 
-<table>
+<table border="0">
   <tr>
     <td valign="top" width="65%">
       <ul>
-        <li>🌱 Currently learning <b>Agentic AI and Go fundamentals</b> to explore intelligent systems and microservice architectures</li>
+        <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events</li>
+        <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures</li>
         <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions</li>
-        <li>💻 Gained hands-on experience in <b>Python, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b></li>
-        <li>🏫 Built a strong foundation in <b>OOP, Data Structures & Algorithms, SQL, Frontend & Backend Web Development</b> through academic coursework</li>
+        <li>💡 Gained hands-on experience through <b>individual projects</b>, focusing on solving real-world problems with clean, scalable code</li>
+        <li>💻 Proficient in <b>Python, Go, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b></li>
       </ul>
     </td>
     <td valign="top" width="35%">
@@ -24,6 +25,7 @@
 
 <p align="left">
   <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/golang.png" alt="go"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
@@ -35,14 +37,14 @@
 
 <p align="left">
   <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
-  <img width="50" height="50" src="https://api.iconify.design/logos:postgresql.svg" alt="postgresql"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-  <img width="50" height="50" src="https://api.iconify.design/logos:postman-icon.svg" alt="postman"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" alt="postman"/>
 </p>
 
 ### 🌐 Connect with Me  
