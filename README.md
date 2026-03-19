@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Abinash Ananth  
 
-💻 **Computer Science Undergraduate @ Informatics Institute of Technology (IIT), degree awarded by University of Westminster** 🌱 Exploring **Agentic AI, Machine Learning, and Go fundamentals** 🎯 *Building full-stack applications, learning new technologies, and sharing my coding journey* ---
+🎓 **2nd Year Computer Science Undergraduate @ Informatics Institute of Technology (IIT)** 🚀 **Degree awarded by University of Westminster | Currently seeking Internship opportunities for my 3rd Year** 💻 Passionate about **Software Engineering** and currently exploring **Agentic AI, Machine Learning, and Go fundamentals**.  
+🎯 *Building full-stack applications, learning new technologies, and sharing my coding journey.* ---
 
 ### 🚀 About Me  
 
@@ -8,11 +9,13 @@
   <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
   
   <ul>
-    <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events</li>
-    <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures</li>
-    <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions</li>
-    <li>💡 Gained hands-on experience through <b>individual projects</b>, focusing on solving real-world problems with clean, scalable code</li>
-    <li>💻 Proficient in <b>Python, Go, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b></li>
+    <li>🎓 **Computer Science Undergraduate Student** (Finished 2nd Year, moving to 3rd Year).</li>
+    <li>💼 **Actively seeking a Software Engineering Internship** to apply my technical skills in a professional environment.</li>
+    <li>🚀 Currently building <b>Linkara</b>, a digital platform designed to connect volunteers, communities, and sponsors for events.</li>
+    <li>🌱 Exploring <b>Agentic AI and Go fundamentals</b> to develop intelligent systems and microservice architectures.</li>
+    <li>🛠 Working on <b>personal and academic projects</b>, including AI-powered applications and VS Code extensions.</li>
+    <li>💡 Gained hands-on experience through <b>individual projects</b>, focusing on solving real-world problems with clean, scalable code.</li>
+    <li>💻 Proficient in <b>Python, Go, Java, JavaScript, TypeScript, React, Node.js, FastAPI, Flask, and databases (SQL & NoSQL)</b>.</li>
   </ul>
 </div>
 
@@ -35,12 +38,18 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,idea,figma,git,docker,postman" />
 </p>
 
+### 🏆 HackerRank Stats
+<p align="left">
+  <img src="https://hacker-rank-badges.vercel.app/api/?username=abiananth50&id=problem-solving" alt="Problem Solving Badge" />
+  <img src="https://hacker-rank-badges.vercel.app/api/?username=abiananth50&id=python" alt="Python Badge" />
+  <img src="https://hacker-rank-badges.vercel.app/api/?username=abiananth50&id=java" alt="Java Badge" />
+</p>
+
+### 📈 GitHub Activity
+[![Abinash's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ananth-Abi&bg_color=000000&color=ffffff&line=2f9844&point=ffffff&area=true&hide_border=true)](https://github.com/Ananth-Abi)
+
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-ananth-494756332/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiananth50@gmail.com)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abiananth50)
-
-<br/>
-
-[![Abinash's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ananth-Abi&bg_color=000000&color=ffffff&line=2f9844&point=ffffff&area=true&hide_border=true)](https://github.com/Ananth-Abi)
